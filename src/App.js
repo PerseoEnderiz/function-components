@@ -5,7 +5,7 @@ import { Container, Typography } from '@mui/material';
 function App() {
   return (
     <Container maxWidth="sm" component="Section">
-      <Typography variant="h3"> Formulario </Typography>
+      <Typography variant="h3" align="center"> Formulario </Typography>
       <FormSignUp/>
     </Container>
   );
